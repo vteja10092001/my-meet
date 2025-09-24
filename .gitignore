@@ -1,0 +1,31 @@
+# -----------------------
+# Node / React (Frontend)
+# -----------------------
+node_modules/
+build/
+dist/
+.env
+.env.*.local
+
+# -----------------------
+# Gradle / Spring Boot (Backend)
+# -----------------------
+.gradle/
+build/
+out/
+
+# -----------------------
+# Editor / IDE
+# -----------------------
+.idea/
+.vscode/
+*.iml
+
+# -----------------------
+# Logs & OS-specific files
+# -----------------------
+*.log
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
